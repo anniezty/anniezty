@@ -31,7 +31,7 @@
 
 
 <!-- Welcome words -->
-<h1 style="color: #FFA500;">Welcome to Yaosir's GitHub ! 🍀</h1>
+<h1 style="color: #FFA500;">Welcome to Annie's GitHub ! 🍀</h1>
 
 
 
@@ -119,17 +119,6 @@
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
 
-
-
-<!-- Blogs List -->
-# :orange_book: Latest Blog Posts :cactus:
-<!-- BLOG-POST-LIST:START -->
-- [Ubuntu下安装Intel MKL完整指南](https://blog.csdn.net/qq_60865111/article/details/147261872)
-- [将本地Blog提交到Github上](https://blog.csdn.net/qq_60865111/article/details/147056134)
-- [Windows强制删除任何你想删除的文件和文件夹](https://blog.csdn.net/qq_60865111/article/details/147003366)
-- [开源且完全没有审核限制的大型语言模型的概述](https://blog.csdn.net/qq_60865111/article/details/147001840)
-- [Git 从入门到精通（开源协作特别版）](https://blog.csdn.net/qq_60865111/article/details/147001420)
-<!-- BLOG-POST-LIST:END -->
 
 
 <!-- Award List -->
