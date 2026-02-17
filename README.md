@@ -37,6 +37,6 @@
  👋 
 
 - 🔭 Automating workflows so humans can human
-- 🌱 Learning dbt + vibe coding (ship first, polish later)
+- 🌱 Learning dbt + vibe coding
 - 👯 Open to collab on fun builds 
 - ⚡ Fun fact: I turn hobbies into apps — Animal Crossing → mini app, tennis → iOS project 🎾
