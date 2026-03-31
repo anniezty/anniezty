@@ -26,16 +26,6 @@
 
 
 
-# Hi 👋 I'm Annie
-
-🎯 Data / Analytics / AI  
-📍 New York  
-💼 Product Analytics | Data Engineering | Automation
-
-[LinkedIn](https://www.linkedin.com/) • [Email](mailto:your@email.com)
-
----
-
 ## 🚀 What I work on
 - 🔭 Automating workflows so humans can human
 - 🌱 Learning dbt + vibe coding
@@ -50,19 +40,5 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📫 Contact
-- Email: your@email.com
-- LinkedIn: your-link
- 👋 
 
 
