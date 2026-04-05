@@ -1,3 +1,82 @@
+# Welcome to Annie's GitHub ! 🍀
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chunxu-han/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Chunxu%20Han-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chunxuhan007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chunxuhan007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <b>🧬 Bioinformatics & Multi-omics</b> ·  <b>🔢 Data Analysis</b>  ·  <b>🤖 AI Agent</b><br/>
+  <i>Master’s student @ DTU & Novo Nordisk</i> 
+</p>
+
+---
+
+## 🔬 What I work on
+- 🔭 Automating workflows so humans can human
+- 🌱 Learning dbt + vibe coding
+- 👯 Open to collab on fun builds 
+- ⚡ Fun fact: I turn hobbies into apps — Animal Crossing → mini app, tennis → iOS project 🎾
+
+---
+
+## 🛠️ Languages & Tools
+
+### 🐍 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### ❄️ Data Stack (Warehousing & Modeling)
+<p align="left">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+</p>
+
+### 🐳 Infrastructure & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+
+---
+
+## 📊 Live Dashboards
+
+<!-- Keep both cards same height; card_width helps alignment -->
+
+[![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/master/profile-summary-card-output/moonlight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chunxubioinfor/chunxubioinfor/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=chunxubioinfor&style=for-the-badge&color=7aa2f7" />
+  <a href="https://buymeacoffee.com/chunxuhan" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" />
+  </a>
+</p>
+
+
+
+
+
 <div align="center">
 
 
@@ -21,24 +100,5 @@
 </div>
 
 
-<!-- Welcome words -->
-<h1 style="color: #FFA500;">Welcome to Annie's GitHub ! 🍀</h1>
-
-
-
-## 🚀 What I work on
-- 🔭 Automating workflows so humans can human
-- 🌱 Learning dbt + vibe coding
-- 👯 Open to collab on fun builds 
-- ⚡ Fun fact: I turn hobbies into apps — Animal Crossing → mini app, tennis → iOS project 🎾
-
----
-
-## 🛠 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
