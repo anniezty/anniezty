@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <b>💰 Martech & GTM </b> ·  <b>🔢 Data Engineer</b>  ·  <b>🤖 AI Agent</b>   <b>🤖 Prompt Engineer</b> <br/>
+ <b>🔢 Data Engineer</b>  <b>💰 Martech & GTM </b> · <b>🤖 AI Agent</b>  <b>💻 Prompt Engineer</b>  <br/>
 </p>
 
 ---
