@@ -2,7 +2,7 @@
 
 
 <p align="left">
- <b>🔢 Analytics Data Engineer</b>  <b>💰 Product Analyst </b> · <b>💰 Martech & GTM </b> ·  <b>🤖 AI Agent</b>  <b>💻 Prompt Engineer</b>  <br/>
+ <b>🔢 Analytics Data Engineer</b>  <b>🛠️ Product </b> · <b>💰 Martech & GTM </b> ·  <b>🤖 AI Agent</b>  <b>💻 Prompt Engineer</b>  <br/>
 </p>
 
 ---
