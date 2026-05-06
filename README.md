@@ -16,8 +16,8 @@
 - 🌱 Learning dbt + vibe coding
 - 👯 Open to collab on fun builds 
 - ⚡ Fun fact: I turn hobbies into apps<br>
-  Animal Crossing → mini app<br>
-  tennis → **[iOS project 🎾 ](https://apps.apple.com/us/app/bouncie/id6686405112)**<br>
+   Animal Crossing → mini app<br>
+   Tennis → **[iOS project 🎾 ](https://apps.apple.com/us/app/bouncie/id6686405112)**<br>
 
 ---
 
