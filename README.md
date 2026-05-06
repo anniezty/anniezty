@@ -15,7 +15,9 @@
   [life]Automation & job-market intelligence — **[DailyJobMatch](https://github.com/anniezty/DailyJobMatch)**<br>
 - 🌱 Learning dbt + vibe coding
 - 👯 Open to collab on fun builds 
-- ⚡ Fun fact: I turn hobbies into apps — Animal Crossing → mini app, tennis → iOS project 🎾
+- ⚡ Fun fact: I turn hobbies into apps<br>
+  Animal Crossing → mini app
+  tennis → **[iOS project 🎾 ](https://apps.apple.com/us/app/bouncie/id6686405112)**<br>
 
 ---
 
