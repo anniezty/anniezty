@@ -9,6 +9,10 @@
 
 ## 🔬 What I work on
 - 🔭 Automating workflows so humans can human
+  · [work]Fellow Media mention tracker — [pip_db](https://github.com/anniezty/pip_db)
+  · [work]News Scraper— [us china news scraper](https://github.com/anniezty/us-china-news-scraper)
+  · [work] Database integration on website— [Legislation database](https://www.ncuscr.org/legislation-database/)
+  · [life]Automation & job-market intelligence — [DailyJobMatch](https://github.com/anniezty/DailyJobMatch)
 - 🌱 Learning dbt + vibe coding
 - 👯 Open to collab on fun builds 
 - ⚡ Fun fact: I turn hobbies into apps — Animal Crossing → mini app, tennis → iOS project 🎾
