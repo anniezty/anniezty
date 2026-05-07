@@ -10,7 +10,7 @@
 ## 🔬 What I work on
 - 🔭 Automating workflows so humans can human<br>
    1. Fellow Media mention tracker — **[pip_db](https://github.com/anniezty/pip_db)**<br>
-   2. News Scraper— **[us china news scraper](us-china-news-scraper.vercel.app)**<br>
+   2. News Scraper— **[us china news scraper](https:///us-china-news-scraper.vercel.app)**<br>
    3. Database integration on website— **[Legislation database](https://www.ncuscr.org/legislation-database/)**<br>
    4. Automation & job-market intelligence — **[DailyJobMatch](https://github.com/anniezty/DailyJobMatch)**<br>
 - 🌱 Learning dbt + vibe coding
